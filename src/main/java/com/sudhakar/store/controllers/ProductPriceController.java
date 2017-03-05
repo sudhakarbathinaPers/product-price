@@ -15,7 +15,7 @@ import com.sudhakar.store.domain.Productprice;
 import com.sudhakar.store.services.ProductPriceService;
 
 @Controller
-@RequestMapping("/productPrice")
+@RequestMapping("/item/price/v1")
 public class ProductPriceController {
 
     @Autowired
