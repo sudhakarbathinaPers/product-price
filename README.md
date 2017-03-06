@@ -1,7 +1,8 @@
 # product-price
 ## Introduction
 This is a Restful microservice which provide product price information as shown below:
-`[  
+
+[  
 
 {    "product_id": "789",    "price": "60"  },
 
@@ -9,7 +10,7 @@ This is a Restful microservice which provide product price information as shown 
 
 {    "product_id": "456",    "price": "40"  }
 
-]`
+]
 
 ## Technology Stack
 * Java 8
