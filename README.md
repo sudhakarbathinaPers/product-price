@@ -15,7 +15,6 @@ This is a Restful microservice which provide product price information as shown 
 ## Technology Stack
 * Java 8
 * SpringBoot
-* SpringDataJPA
 * SpringDataCassandra
 * Maven
 * Docker
